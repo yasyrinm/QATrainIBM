@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC01-TC04_User Failed Login when email field empty_NEGATIVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d610025-b0d7-4a83-a92f-2e2f86659966</testCaseGuid>
+</TestCaseEntity>

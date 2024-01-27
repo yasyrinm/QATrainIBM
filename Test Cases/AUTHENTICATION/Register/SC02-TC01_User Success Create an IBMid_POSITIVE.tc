@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC02-TC01_User Success Create an IBMid_POSITIVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5fef5b2-0f68-440c-ae3d-7af3492a784d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC02-TC13_User Failed Create an IBMid when email field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>572a49fb-8b81-4d45-b420-23a041003685</testCaseGuid>
+</TestCaseEntity>

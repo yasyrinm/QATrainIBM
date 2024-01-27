@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC02-TC11_User Failed Create an IBMid When User not Selected Dropdown Negara atau wilayah tempat tinggal _NEGATIVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>590ea26b-810d-4363-b99c-c78b5cc49c83</testCaseGuid>
+</TestCaseEntity>

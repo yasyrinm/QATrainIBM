@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC01-TC01_User Success Login With Valid Email_POSITIVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f34d08e2-b0d7-4865-a3ae-a096e6b883bf</testCaseGuid>
+</TestCaseEntity>

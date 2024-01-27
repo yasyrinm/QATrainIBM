@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC01-TC02_User Failed Login when Email Invalid_NEGATIVE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f16c996-a5ef-4ccb-a48a-0a6c293fc2a8</testCaseGuid>
+</TestCaseEntity>
